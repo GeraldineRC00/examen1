@@ -1,0 +1,21 @@
+/* Cita inspiradora */
+.cita {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #ffffff;
+  border-left: 6px solid #00796b;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+}
+
+.cita footer {
+  text-align: right;
+  margin-top: 1rem;
+  font-weight: bold;
+  color: #555;
+}
+
